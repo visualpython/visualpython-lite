@@ -5,7 +5,7 @@ ipympl>=0.8.2
 ipywidgets>=8.0.0,<9
 jupyterlab~=3.6.1
 jupyterlab-drawio
-jupyterlab-visualpython
+jupyterlab-visualpython==2.4.1
 jupyterlite==0.1.0b18
 seaborn
 plotly>=5,<6

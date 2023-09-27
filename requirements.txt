@@ -4,7 +4,7 @@ ipyleaflet
 ipympl>=0.8.2
 ipywidgets>=8.0.0,<9
 jupyterlab~=3.6.1
-jupyterlab-visualpython==2.4.9
+jupyterlab-visualpython==2.5.0
 jupyterlite==0.1.0b18
 seaborn
 plotly>=5,<6

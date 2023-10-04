@@ -9,3 +9,4 @@ jupyterlite==0.1.0b18
 seaborn
 plotly>=5,<6
 scikit-learn
+openpyxl
